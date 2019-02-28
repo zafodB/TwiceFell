@@ -9,6 +9,7 @@ def __init__():
         print("wassup")
         print("ble")
         print("ble222")
+        print("ble33")
 
     my_method()
 
